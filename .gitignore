@@ -1,0 +1,4 @@
+*.o
+ex0/vec2
+ex1/timer
+ex2/spawner
